@@ -7,7 +7,7 @@ paginate: true
 
 <!-- _class: title -->
 
-![bg right:40% 80%](image.png)
+![bg right:40% 80%](nestjs_image.png)
 # NestJS 세미나
 
 ###### 작성자
@@ -23,5 +23,15 @@ paginate: true
 - 장점
 
 ---
-다음페이지
+# 다음페이지
+
+```markdown
+# Slide 1
+
+foobar
+
 ---
+# Slide 2
+
+foobar
+```
