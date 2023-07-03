@@ -40,4 +40,5 @@ foobar
 
 # 장점
 1. swagger api 어노테이션 기능으로 자동 생성
-2. 
+2. typescript를 기본으로 채택하여 타입오류를 잡을 수 있음
+3. nest-cli로 `module - controller - service`의 기본 골자를 제공 받을 수 있음
