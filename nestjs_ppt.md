@@ -35,3 +35,9 @@ foobar
 
 foobar
 ```
+
+---
+
+# 장점
+1. swagger api 어노테이션 기능으로 자동 생성
+2. 
