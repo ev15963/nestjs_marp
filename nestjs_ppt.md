@@ -7,17 +7,19 @@ paginate: true
 
 <!-- _class: title -->
 
-# 제목
+# NestJS 세미나
 
 ###### 작성자
-###### 작성일자
+###### 작성일자 23.07.23.
 
 ---
 
-# 내용
+# 목차
 
-- 내용내용
-* 내용내용
+- nest란?
+- express, fastify vs nestjs
+- typescript
+- 장점
 
 ---
 다음페이지
