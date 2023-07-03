@@ -7,6 +7,7 @@ paginate: true
 
 <!-- _class: title -->
 
+![bg right:40% 80%](image.png)
 # NestJS 세미나
 
 ###### 작성자
