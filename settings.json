@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+        "./theme/custom.a4.css",
+    ],
+    "markdown.marp.enableHtml": true
+}
